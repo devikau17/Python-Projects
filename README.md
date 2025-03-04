@@ -7,10 +7,6 @@ It allows users to quickly and accurately convert between different measurement 
 This project is designed for ease of use, with a **simple and clean user interface** that makes unit conversion effortless.
 
 
-https://github.com/user-attachments/assets/7755e39a-6d22-4db7-8ac3-33492abbc66c
-
-
-
 
 ## Features
 
@@ -64,7 +60,10 @@ Easy-to-use GUI with Tkinter
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/58d3832e-d3fb-4e24-88ae-588ccf38e8f0
+
+https://github.com/user-attachments/assets/147de0c3-42c4-47ef-887c-ec776a8caef6
+
+
 
 
 https://github.com/user-attachments/assets/4092659c-02ae-460d-8f14-62edc0594a68
