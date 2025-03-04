@@ -60,6 +60,8 @@ Easy-to-use GUI with Tkinter
 
 ## Demo Video
 
+https://github.com/user-attachments/assets/58d3832e-d3fb-4e24-88ae-588ccf38e8f0
+
 
 https://github.com/user-attachments/assets/4092659c-02ae-460d-8f14-62edc0594a68
 
