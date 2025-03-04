@@ -34,11 +34,11 @@ Easy-to-use GUI with Tkinter
 
 ![unit converter GUI]
 
-![Screenshot (13)](https://github.com/user-attachments/assets/3f9bbda4-ad7d-4fb6-b1c2-d03ba012bfa7)
+![Screenshot (13)](https://github.com/user-attachments/assets/38596822-f9c5-4c02-bd7e-37942c49b657)
 
-![Screenshot (14)](https://github.com/user-attachments/assets/ab32ebc5-1959-46e7-8c38-1b87b0b5de99)
+![Screenshot (14)](https://github.com/user-attachments/assets/55b8e5bd-f438-4cfb-b7ab-e7fcaa415f4f)
 
-![Screenshot (20)](https://github.com/user-attachments/assets/9808dd83-d164-489f-81bd-cc889b1f49af)
+![Screenshot (20)](https://github.com/user-attachments/assets/28a9df20-c6bf-4ec1-b3f2-f3cdcb88587d)
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/da6857ac-4be8-448f-962b-ed680a8901ec)
 
