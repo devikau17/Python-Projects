@@ -46,6 +46,10 @@ Easy-to-use GUI with Tkinter
 
 ![Screenshot (23)](https://github.com/user-attachments/assets/50a6e3aa-7904-4dc3-83af-3258e461177a)
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/147de0c3-42c4-47ef-887c-ec776a8caef6
 
 
 ##  How to Run the Project 
@@ -58,10 +62,7 @@ Easy-to-use GUI with Tkinter
 
 
 
-## Demo Video
 
-
-https://github.com/user-attachments/assets/147de0c3-42c4-47ef-887c-ec776a8caef6
 
 
 
